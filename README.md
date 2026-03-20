@@ -155,3 +155,21 @@ This project proves you understand **how authentication actually works**.
 
 If you extend this → you’re improving.
 If you stop here → you’re still basic.
+
+HOME PAGE
+<img width="1906" height="920" alt="Screenshot 2026-03-20 163051" src="https://github.com/user-attachments/assets/977780c1-5be8-4fdb-a2a9-739f99eaa18c" />
+
+LOGIN PAGE
+
+
+<img width="1915" height="950" alt="Screenshot 2026-03-20 163144" src="https://github.com/user-attachments/assets/90ba82cb-02f1-45f3-894e-a8c7340a9832" />
+
+
+DASHBOARD PAGE
+
+<img width="1916" height="997" alt="image" src="https://github.com/user-attachments/assets/d1995840-4f96-4ca2-b02e-4665d584659b" />
+
+Register pagge
+
+<img width="1909" height="925" alt="image" src="https://github.com/user-attachments/assets/0126486b-b437-4b0e-9105-f9734f969067" />
+
